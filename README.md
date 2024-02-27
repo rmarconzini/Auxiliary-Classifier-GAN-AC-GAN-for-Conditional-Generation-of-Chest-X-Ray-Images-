@@ -104,28 +104,10 @@ Run the code and follow the detailed instructions in `AC-cGAN-evaluate.ipynb` to
 
 Use the notebooks in `CXR Classification` folder to train and evaluate classification models for the detection of COVID-19, Pneumonia and Absence of symptoms in Chest X-ray. Some forms of data augmentation are tested, including generation by trained AC-GAN. 
 
-## Status
-
- Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Done_
-
-
-## Contact
-
-[Giorgio Carbone](https://github.com/giocoal) - feel free to contact me!
-
 
 ## License
-* >You can check out the full license [here](https://github.com/giocoal/CXR-ACGAN-chest-xray-generator-covid19-pneumonia/blob/main/README.md)
 
 This project is licensed under the terms of the **MIT** license.
-
-## Contributing
-
-1. Fork it (<https://github.com/giocoal/CXR-ACGAN-chest-xray-generator-covid19-pneumonia.git>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 
 # Contributors
